@@ -1,0 +1,10 @@
+The Pilgrim's progress//John Bunyan//1//12
+Robinson Crusoe//Daniel Defoe//2//1
+Gulliver's Travels//Jonathan Swift//3//0
+Clarissa//Samuel Richardson//4//2
+Tom Jones//Henry Fielding//5//0
+Emma//Jane Austen//6//4
+Frankenstein//Mary Shelley//7//0
+Nightmare Abbey//Thomas Love Peacock//8//4
+Sybil//Benjamin Disraeli//9//0
+Vanity Fair//William Thackeray//10//2
